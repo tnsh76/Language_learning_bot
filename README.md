@@ -22,7 +22,7 @@ Built using OpenAI's GPT-4 and LangChain, it tracks user progress, corrects mist
 ```
 language-learning-bot/
 │
-├── main.py                   # Core chatbot implementation
+├── Script.py                   # Core chatbot implementation
 ├── .env                      # Stores your OpenAI API Key
 ├── language_learning.db      # SQLite database created on runtime
 └── README.md                 # Project documentation
